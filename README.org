@@ -1,0 +1,11 @@
+* Nauci Landing Page
+This repository contains the static landing page for the Nauci monitoring platform, hosted at https://nauci.org.
+
+Nauci is a lightweight tool for monitoring ETL pipelines and ML inference systems. It is designed to be simple, affordable, and easy to set up, especially for solo developers, small teams, and early-stage startups.
+
+* Project Status
+This is an early-stage indie project. I'm building this solo and iterating in public. Feedback and encouragement are welcome!
+
+* Community
+Questions? Ideas? Feedback? Join the discussion:
+https://github.com/nauci-org/nauci-org.github.io/discussions
